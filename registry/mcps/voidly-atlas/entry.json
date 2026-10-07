@@ -5,7 +5,7 @@
   "verified": false,
   "name": "Voidly Atlas",
   "tagline": "Explore sourced censorship measurements and Sentinel forecasts with dates, coverage and uncertainty.",
-  "description": "Voidly Atlas gives MCP clients access to internet-censorship measurements, incident evidence and Sentinel risk forecasts across 130 countries. Responses carry source and observation context so an agent can tell measured coverage from inference. The package also includes optional end-to-end encrypted agent-relay tools: credentials stay in a local 0600 file and state-changing relay actions are off by default.",
+  "description": "Voidly Atlas gives MCP clients access to internet-censorship measurements, incident evidence and Sentinel risk forecasts across 130 countries. Responses carry source and observation context so an agent can tell measured coverage from inference. The package also includes optional agent-relay tools; relay messages are readable by the relay, not end-to-end encrypted. Credentials stay in a local 0600 file and state-changing relay actions are off by default.",
   "author": {
     "name": "Voidly",
     "url": "https://voidly.ai"
